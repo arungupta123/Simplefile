@@ -8,7 +8,8 @@ public class Simple {
 		
 		System.out.println("arun1");
 		System.out.println("arun2");
-
+		
+		System.out.println("arun3");
 	}
 
 }
