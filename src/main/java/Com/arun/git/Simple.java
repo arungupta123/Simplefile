@@ -7,9 +7,8 @@ public class Simple {
 		System.out.println("arun");
 		
 		System.out.println("arun1");
-		System.out.println("arun2");
+		System.out.println("arun21");
 		
-		System.out.println("arun31");
 	}
 
 }
